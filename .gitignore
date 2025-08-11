@@ -1,3 +1,10 @@
 node_modules
-package-lock.json
+
 .env
+*.tf
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform
+.terraform.lock.hcl
+.DS_Store

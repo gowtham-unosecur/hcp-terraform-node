@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/gowtham-unosecur/hcp-terraform-node#readme",
   "dependencies": {
-    "dotenv": "^17.2.1",
-    "nodemon": "^3.1.10"
+    "@aws-sdk/client-cloudwatch-logs": "^3.864.0",
+    "@aws-sdk/client-iam": "^3.864.0",
+    "dotenv": "^17.2.1"
   }
 }
